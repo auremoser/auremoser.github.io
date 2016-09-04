@@ -70,7 +70,7 @@ article {
 }
 article::before {
   color: #0068FF;
-  content: '\2A07\2A07';
+  content: '\2B26\2B29\2B26';
   font-size: 24px;
   position: relative;
   top: 0;
@@ -78,7 +78,7 @@ article::before {
 }
 article::after {
   color: #0068FF;
-  content: '\2A08\2A08\2A08';
+  content: '\2B14\2B18\2B16\2B15';
   float: right;
   font-size: 44px;
   position: relative;
